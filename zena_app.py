@@ -1,3 +1,3 @@
-Import Streamlit
+import streamlit
 
-Streamlit.Title('Zenas Catalog')
+streamlit.Title('Zenas Catalog')
